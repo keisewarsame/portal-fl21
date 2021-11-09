@@ -2,7 +2,6 @@
 .topnav {
     margin: auto;
     background-color: rgb(95,95,95);
-    overflow: auto;
 }
 
 .topnav a {
@@ -17,7 +16,7 @@
 }
 
 .topnav a.hover, .active {
-    background-color: darkcyan;
+    background-color: rgb(19, 32, 66);
 }
 
 .topnav .icon {
